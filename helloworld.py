@@ -3,4 +3,4 @@
 
         print ("Hello OSS Deverlopment")
 	
-	print ("Hello CTU")
+	print ("Hello CTU - CICT")
